@@ -1,0 +1,68 @@
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\Wen.exe.config
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\Wen.exe
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\Wen.pdb
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.Form1.resources
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.Properties.Resources.resources
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.exe
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.pdb
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.csproj.CopyComplete
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\HtmlAgilityPack.dll
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\source\repos\Wen\Wen\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\source\repos\Wen\Wen\obj\Debug\Wen.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\Wen.exe.config
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\Wen.exe
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\Wen.pdb
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Nueva carpeta\Wen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.Form1.resources
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.Properties.Resources.resources
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.csproj.CopyComplete
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.exe
+C:\Users\user\Desktop\Nueva carpeta\Wen\obj\Debug\Wen.pdb
+C:\Users\user\Desktop\Wen\bin\Debug\Wen.exe.config
+C:\Users\user\Desktop\Wen\bin\Debug\Wen.exe
+C:\Users\user\Desktop\Wen\bin\Debug\Wen.pdb
+C:\Users\user\Desktop\Wen\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Wen\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Wen\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Wen\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\Wen\bin\Debug\HtmlAgilityPack.xml
+C:\Users\user\Desktop\Wen\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Wen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Wen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Wen\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Wen\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.Form1.resources
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.Properties.Resources.resources
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.csproj.CopyComplete
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.exe
+C:\Users\user\Desktop\Wen\obj\Debug\Wen.pdb
