@@ -1,2 +1,2 @@
 # Wen
- Tool to save links and see videos
+ Project for my IT training. Tool to save links and see videos.
